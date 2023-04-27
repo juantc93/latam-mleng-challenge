@@ -1,5 +1,7 @@
 import joblib
 import numpy as np
+import sys
+sys.path.append("/app/")
 from src.models.predict import Model  as PredictRequest
 from fastapi import FastAPI
 from typing import List
