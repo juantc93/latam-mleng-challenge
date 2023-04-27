@@ -1,0 +1,14 @@
+pandas==1.5.3
+numpy
+matplotlib
+seaborn
+missingno
+sklearn
+xgboost
+fastapi 
+uvicorn 
+joblib
+datamodel-code-generator
+genson
+pathlib
+importlib
